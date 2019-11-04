@@ -44,7 +44,7 @@ img{
 .modal{
     position: fixed;
     width: 100%;
-  
+    background: #000000b4;
     display: flex;
     justify-content: center;
     align-content: center;
